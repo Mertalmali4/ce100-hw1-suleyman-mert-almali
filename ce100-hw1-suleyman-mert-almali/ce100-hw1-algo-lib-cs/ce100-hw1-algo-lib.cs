@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 /** @Author Eray Burak Çakır and Süleyman Mert Almalı 
 */
-
+ 
 
 //!  A Algorithms class. 
 /*!
