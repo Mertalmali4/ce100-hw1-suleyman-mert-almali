@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ce100_hw1_suleyman_mert_almali</RootNamespace>
-    <AssemblyName>ce100-hw1-suleyman-mert-almali</AssemblyName>
+    <AssemblyName>ce100-hw1-algo-lib-cs</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

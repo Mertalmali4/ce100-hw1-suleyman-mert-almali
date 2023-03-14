@@ -22,7 +22,7 @@ public class Algorithms
     public static int[] SelectionSort(int[] arr,bool enableDebug=false)
         {
 
-            int n = arr.Length;/*!< This variable stores the arrays length. */
+            int n = arr.Length;/*!< This variable stores the arrays length. */ 
 
 
         for (int i = 0; i < n; i++)/*!< This loop loops when arrays length equals integer i. */

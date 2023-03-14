@@ -15,7 +15,7 @@ namespace Tests
             var random = new Random();
             int[] input = Enumerable.Range(1, 10000).Select(_ => random.Next()).ToArray();
 
-            int[] sorted = SelectionSort(input);
+            int[] sorted = SelectionSort(input); 
 
             for (int j = 1; j < sorted.Length; j++)
             {

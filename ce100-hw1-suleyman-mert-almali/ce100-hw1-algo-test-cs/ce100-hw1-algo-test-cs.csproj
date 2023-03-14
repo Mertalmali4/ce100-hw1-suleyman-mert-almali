@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ce100_hw1_suleyman_mert_almaliTests</RootNamespace>
-    <AssemblyName>ce100-hw1-suleyman-mert-almaliTests</AssemblyName>
+    <AssemblyName>ce100-hw1-algo-test-cs</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -63,7 +63,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ce100-hw1-suleyman-mert-almali\ce100-hw1-algo-lib-cs.csproj">
+    <ProjectReference Include="..\ce100-hw1-algo-lib-cs\ce100-hw1-algo-lib-cs.csproj">
       <Project>{83F71047-4DA0-4CF8-B1AC-3C0D9A259873}</Project>
       <Name>ce100-hw1-algo-lib-cs</Name>
     </ProjectReference>
