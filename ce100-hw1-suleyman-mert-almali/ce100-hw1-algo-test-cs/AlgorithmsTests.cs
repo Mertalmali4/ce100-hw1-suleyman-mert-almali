@@ -3,7 +3,7 @@ using System;
 using System.Linq;
 
 namespace Tests
-{
+{ 
     [TestClass()]
     public class  AlgorithmsTests : Algorithms 
     {
